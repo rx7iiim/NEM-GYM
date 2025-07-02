@@ -4,6 +4,7 @@ import { rules } from './webpack.rules';
 import { plugins } from './webpack.plugins';
 
 export const rendererConfig: Configuration = {
+  entry:'./src/index.ts',
   module: {
     rules,
   },
