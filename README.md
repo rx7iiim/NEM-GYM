@@ -4,9 +4,14 @@
 
 A modern, **offline-first** desktop application for gym owners to efficiently manage members, payments, and operations with a sleek interface and powerful backend.
 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Electron Version](https://img.shields.io/badge/Electron-25.0.0-blue)](https://www.electronjs.org/)
 [![React Version](https://img.shields.io/badge/React-18.2.0-61DAFB)](https://reactjs.org/)
+
+##demo 
+
+[![Watch the demo](Screenshot.png)](https://drive.google.com/file/d/1qftSte8MIs8hNTV4EnmdFxUHUbRMxizL/view?usp=drive_link)
 
 ## ✨ Key Features
 
