@@ -9,9 +9,9 @@ A modern, **offline-first** desktop application for gym owners to efficiently ma
 [![Electron Version](https://img.shields.io/badge/Electron-25.0.0-blue)](https://www.electronjs.org/)
 [![React Version](https://img.shields.io/badge/React-18.2.0-61DAFB)](https://reactjs.org/)
 
-##demo 
+## demo 
 
-[![Watch the demo](Screenshot.png)](https://drive.google.com/file/d/1qftSte8MIs8hNTV4EnmdFxUHUbRMxizL/view?usp=drive_link)
+[![Watch the demo](Screenshot.png)](https://drive.google.com/file/d/1D5197DMWXwveeGfbqSLzGLTtA0Csol4V/view?usp=drive_link)
 
 ## ✨ Key Features
 
